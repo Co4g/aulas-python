@@ -9,7 +9,7 @@ except ValueError:
     is_float = False
 
 
-print('é um número?', a.isnumeric());
+print(f'{a} é um número?', a.isnumeric());
 print("{} é uma letra?".format (a), a.isalpha())
 print(a, 'é um número decimal?',a.isdecimal())
 print(a, 'está capitalizado?', a.isupper())
