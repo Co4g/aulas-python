@@ -43,4 +43,6 @@ print(f'Dias de aluguel = {dias} dias')
 sleep(0.5)
 print(f'Cáculo da dívida -> Km = R${kil_rod*0.15:.2f} + Dias = R${dias*60}')
 print(f'Total a pagar = R${total:.2f}')
-
+print('=_-'*20)
+print('Obrigado por fazer negócios conosco. VOLTE SEMPRE!'.center(60))
+print('=_-'*20)
