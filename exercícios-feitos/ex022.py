@@ -13,5 +13,5 @@ print(nmi)
 nse = nome.replace(" ", "")
 print(len(nse))
 nd = nome.split()
-print(len(nd [0]))
+print(len(nd[0]))
 
