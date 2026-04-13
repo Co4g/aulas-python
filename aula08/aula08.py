@@ -3,7 +3,7 @@ Conteúdo referente a aula 08 do curso de Python 3 iniciando do canal curso em v
 '''
 # Aula 08 - Utilizando Módulos
 '''
-Para importar mpodulos, que são funcionalidades extras para programas, usamos o comando 'import'
+Para importar módulos, que são funcionalidades extras para programas, usamos o comando 'import'
 Para importar somente lementos do módulos, e não ele inteiro, usamos 'From módulo import elemento'
 ex:
 '''
